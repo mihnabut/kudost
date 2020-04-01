@@ -1,0 +1,8 @@
+*.pyc
+*~
+__pycache__
+jgkudo
+requirements.txt
+db.sqlite3
+/static
+.DS_Store
